@@ -27,6 +27,14 @@ Descripción de los archivos:
   * test_predict: comprueba si el resultado de las predicciones es adecuado.
   * test_error: compara errores con un valor umbral.
 
+* prediction.py: este script sirve para hacer las predicciones de los valores de irradiancia. Este cuenta con 3 funciones:
+  
+  * mean_squared_error: calcula el error de las predicciones.
+  * load_models: carga los modelos de tensorflow.
+  * predictions: se formatean los datos y estos se incluyen en el modelo de predicción para que estos sean exportados a un json posteriormente.
+
+
+
 
 
 Ejemplo de input:
