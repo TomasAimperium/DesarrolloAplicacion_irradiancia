@@ -33,7 +33,7 @@ Descripción de los archivos:
   * load_models: carga los modelos de tensorflow.
   * predictions: se formatean los datos y estos se incluyen en el modelo de predicción para que estos sean exportados a un json posteriormente.
 
-
+* main.py: ejemplo de ejecucion de la aplicación.
 
 
 
