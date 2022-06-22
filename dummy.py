@@ -1,1 +1,0 @@
-#este script no hace nada
